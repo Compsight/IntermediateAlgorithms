@@ -11,6 +11,9 @@ https://www.freecodecamp.com/map
 
 Listed in the link above
 
+### Stretch Goal:
+ - [ ] Complete 3 of 9 Advanced Algorithms
+
 ### Required
 
 _Do not remove these specs - they are required for all goals_.
