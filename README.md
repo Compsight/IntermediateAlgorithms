@@ -12,7 +12,7 @@ https://www.freecodecamp.com/map
 Listed in the link above
 
 ### Stretch Goal:
- - [ ] Complete 3 of 9 Advanced Algorithms
+ - [x] Complete 3 of 9 Advanced Algorithms
 
 ### Required
 
